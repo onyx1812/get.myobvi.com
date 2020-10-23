@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Obvi\`s Kid Complete Protein</title>
+    <title>Obvi`s Kid Complete Protein</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="/obvikids/css/font-awesome.min.css">
@@ -751,7 +751,7 @@
                                                             <div class="facts">
                                                                 <p>The competition contains 48 "other ingredients." But Our Kid's Complete Protein contains just 13.
                                                                     That means your child gets everything they need for optimal nutrition and nothing they don't.</p>
-                                                                    <img src="/obvikids/images/other_images/asset_33.png" alt="" />
+                                                                    <img src="/obvikids/images/other_images/asset_33_new.png" alt="" />
                                                                 </div>
                                                             </div>
                                                         </section>
